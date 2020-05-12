@@ -1,0 +1,24 @@
+{
+	"name": "coding-design-token-vscode-snippets",
+	"displayName": "CODING Design Token Snippets",
+	"description": "CODING design token snippets",
+	"version": "0.0.1",
+	"publisher": "tankxu",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/Coding/coding-design-token-vscode-snippets.git"
+    },
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"path": "./snippets/design-token-value.code-snippets"
+			}
+		]
+	}
+}
