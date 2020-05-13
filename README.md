@@ -9,7 +9,7 @@ Search in vscode marketplace or use ```vsce package``` to package extenion and c
 
 ## Usage
 
-Snippets use [ck-] as a prefix before design token name, so just type ```ck``` in editor you will get the snippets list of design token.
+Snippets use [cu-] (**c**oding **u**ikit) as a prefix before design token name, so just type ```cu``` in editor you will get the snippets list of design token.
 
 ## Running the extension
 

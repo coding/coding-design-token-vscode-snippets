@@ -2,7 +2,7 @@
 	"name": "coding-design-token-vscode-snippets",
 	"displayName": "CODING Design Token Snippets",
 	"description": "CODING design token snippets",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "tankxu",
 	"engines": {
 		"vscode": "^1.28.0"
